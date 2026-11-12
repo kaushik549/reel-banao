@@ -1,0 +1,15 @@
+[
+  {
+    "id": "guest_1d15f158",
+    "name": "Guest Creator",
+    "username": "@guest_8949",
+    "email": "guest_guest_1d15f158@reelbanao.local",
+    "isVip": false,
+    "isGuest": true,
+    "totalProjects": 0,
+    "totalExports": 0,
+    "storageUsedMb": 10,
+    "maxStorageMb": 1024,
+    "createdAt": 1794478517353
+  }
+]

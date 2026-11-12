@@ -1,0 +1,54 @@
+[
+  {
+    "id": "aud_01",
+    "title": "Dholak Bass Drop",
+    "artist": "DJ Rohit",
+    "durationMs": 28000,
+    "audioUrl": "https://example.com/audio1.mp3",
+    "category": "Beat Sync",
+    "beatPointsMs": [
+      1200,
+      2400,
+      3600,
+      4800,
+      7200
+    ],
+    "isTrending": true,
+    "isFavorite": true,
+    "usesCount": 89000
+  },
+  {
+    "id": "aud_02",
+    "title": "Midnight Lo-Fi Chill",
+    "artist": "Acoustic Cafe",
+    "durationMs": 45000,
+    "audioUrl": "https://example.com/audio2.mp3",
+    "category": "Vlog",
+    "beatPointsMs": [
+      4000,
+      8000,
+      16000
+    ],
+    "isTrending": false,
+    "isFavorite": true,
+    "usesCount": 54000
+  },
+  {
+    "id": "aud_03",
+    "title": "Phonk Samurai Tokyo",
+    "artist": "Kenta Drift",
+    "durationMs": 32000,
+    "audioUrl": "https://example.com/audio3.mp3",
+    "category": "Trending",
+    "beatPointsMs": [
+      800,
+      1600,
+      2400,
+      3200,
+      4800
+    ],
+    "isTrending": true,
+    "isFavorite": false,
+    "usesCount": 142000
+  }
+]

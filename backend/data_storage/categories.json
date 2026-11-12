@@ -1,0 +1,129 @@
+[
+  {
+    "id": "cat_trending",
+    "name": "Trending Reels",
+    "hindiName": "ट्रेंडिंग रील्स",
+    "templateCount": 420,
+    "isFeatured": true
+  },
+  {
+    "id": "cat_insta_reels",
+    "name": "Instagram Reels",
+    "hindiName": "इंस्टाग्राम रील्स",
+    "templateCount": 380,
+    "isFeatured": true
+  },
+  {
+    "id": "cat_birthday",
+    "name": "Birthday",
+    "hindiName": "जन्मदिन",
+    "templateCount": 260
+  },
+  {
+    "id": "cat_love",
+    "name": "Love",
+    "hindiName": "प्यार व रोमांस",
+    "templateCount": 340,
+    "isFeatured": true
+  },
+  {
+    "id": "cat_sad",
+    "name": "Sad Status",
+    "hindiName": "सैड स्टेटस",
+    "templateCount": 190
+  },
+  {
+    "id": "cat_attitude",
+    "name": "Attitude",
+    "hindiName": "एटीट्यूड",
+    "templateCount": 310,
+    "isFeatured": true
+  },
+  {
+    "id": "cat_cinematic",
+    "name": "Cinematic",
+    "hindiName": "सिनेमैटिक",
+    "templateCount": 290,
+    "isFeatured": true
+  },
+  {
+    "id": "cat_travel",
+    "name": "Travel",
+    "hindiName": "सफ़र व व्लॉग",
+    "templateCount": 275
+  },
+  {
+    "id": "cat_wedding",
+    "name": "Wedding",
+    "hindiName": "शादी ब्याह",
+    "templateCount": 210
+  },
+  {
+    "id": "cat_festival",
+    "name": "Festival",
+    "hindiName": "त्योहार",
+    "templateCount": 330
+  },
+  {
+    "id": "cat_friendship",
+    "name": "Friendship",
+    "hindiName": "दोस्ती व यारी",
+    "templateCount": 185
+  },
+  {
+    "id": "cat_family",
+    "name": "Family",
+    "hindiName": "परिवार",
+    "templateCount": 160
+  },
+  {
+    "id": "cat_slideshow",
+    "name": "Photo Slideshow",
+    "hindiName": "फोटो स्लाइड शो",
+    "templateCount": 410
+  },
+  {
+    "id": "cat_slowmo",
+    "name": "Slow Motion",
+    "hindiName": "स्लो मोशन (Smooth)",
+    "templateCount": 240,
+    "isFeatured": true
+  },
+  {
+    "id": "cat_beatsync",
+    "name": "Beat Sync",
+    "hindiName": "बीट सिंक (Dhol & Bass)",
+    "templateCount": 520,
+    "isFeatured": true
+  },
+  {
+    "id": "cat_motivation",
+    "name": "Motivation",
+    "hindiName": "मोटिवेशन",
+    "templateCount": 195
+  },
+  {
+    "id": "cat_nature",
+    "name": "Nature",
+    "hindiName": "कुदरत व हरियाली",
+    "templateCount": 170
+  },
+  {
+    "id": "cat_business",
+    "name": "Business",
+    "hindiName": "बिज़नेस व प्रोमो",
+    "templateCount": 140
+  },
+  {
+    "id": "cat_yt_shorts",
+    "name": "YouTube Shorts",
+    "hindiName": "यूट्यूब शॉर्ट्स",
+    "templateCount": 310
+  },
+  {
+    "id": "cat_insta_stories",
+    "name": "Instagram Stories",
+    "hindiName": "इंस्टाग्राम स्टोरीज़",
+    "templateCount": 280
+  }
+]
